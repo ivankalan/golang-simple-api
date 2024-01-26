@@ -1,4 +1,4 @@
-module github.com/golang-simple-api
+module github.com/ivankalan/golang-simple-api
 
 go 1.21.6
 
